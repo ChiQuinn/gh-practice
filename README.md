@@ -1,6 +1,4 @@
 # gh-practice
 
 ## My notes
-GitHub practice in progress.
-
-Learning the GitHub workflow.
+This is the second round of the GitHub practice.
